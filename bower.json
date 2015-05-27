@@ -1,0 +1,29 @@
+{
+  "name": "hitler.cn",
+  "version": "0.0.1",
+  "homepage": "hitler.cn",
+  "description": "hitler.cn",
+  "main": "index.html",
+  "keywords": [
+    "造币",
+    "zaobi.org",
+    "zaobi.me"
+  ],
+  "authors": [
+    "followtheart@outlook.com"
+  ],
+  "license": "NULL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullpage.js": "~2.6.5",
+    "headroom.js": "~0.7.0",
+    "bootstrap": "~3.3.4",
+    "animate.css": "~3.3.0"
+  }
+}
