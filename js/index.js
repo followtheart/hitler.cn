@@ -1,12 +1,12 @@
 $(document).ready(function() {
   $('#fullpage').fullpage({
 
-    anchors: ['介绍', '矿池', '交易', '造币', '5thpage', '6thpage'],
+    anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage', '5thpage', '6thpage'],
     sectionsColor: ['#58EFCC', '#58EFCC', '#58EFCC', '#58EFCC', '#58EFCC', '#58EFCC', '#58EFCC', '#58EFCC'],
     css3: true,
     //navigation
     navigation: true,
-    navigationTooltips: ['firstPage', 'secondPage', '3rdPage', '4thpage', '5thpage', '6thpage'],
+    navigationTooltips: ['介绍', '矿池', '交易', '造币', '5thpage', '6thpage'],
     showActiveTooltip:true,
     slidesNavigation:true,
     slidesNavPosition:'bottom'
